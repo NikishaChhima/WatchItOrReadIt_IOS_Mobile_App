@@ -1,9 +1,8 @@
-# WatchItOrReadIt_IOS_Mobile_App
+<img width="265" alt="Screen Shot 2025-03-20 at 3 16 09 PM" src="https://github.com/user-attachments/assets/4693bb6b-f4ac-4e2f-8ae1-d3532c2c19d9" /># WatchItOrReadIt_IOS_Mobile_App
 
 <h2>Project Description</h2>
 Entertainment social network platforms like Letterboxd and Goodreads have become recognised for their user-friendly interfaces and interactive communities where users can share their options, participate in discussions and discover new entertainment. Building on these concepts, WatchItOrReadIt aims to combine the best features of both platforms into a seamless moible application. Allowing users to experience a fictional world through movies, tv shows and books.
 <br />
-
 
 <h2>Languages and Utilities Used</h2>
 
@@ -17,6 +16,19 @@ Entertainment social network platforms like Letterboxd and Goodreads have become
 - Node js
 - Firebase
 - Expo
+
+<h2>How to build our project</h2>
+
+1. Ensure Node.js and Expo is downloaded and installed
+2. Open our project folder in Visual Studio Code
+3. Open a new terminal and enter "npx exop start -c"
+4. On a IOS device, scan the QR code provided form the code above
+
+<h2>Links</h2>
+
+- [Github Link](https://github.com/srn1153/WatchItOrReadIt)
+- [Final Presentation Link](https://www.canva.com/design/DAGT9dFSJZ8/F2NYCW27KtYdpoCm4neWjA/edit)
+- [Trello Board](https://trello.com/b/BcszFVww/2024s2w202awatchitorreadit)
 
 <h2>Dependencies Required</h2>
 
@@ -50,18 +62,6 @@ Entertainment social network platforms like Letterboxd and Goodreads have become
 - react-native-web@0.19.12
 - react-native@0.74.5
 - react@18.2.0
-
-<h2>How to build our project</h2>
-
-1. Ensure Node.js and Expo is downloaded and installed
-2. Open our project folder in Visual Studio Code
-3. Open a new terminal and enter "npx exop start -c"
-4. On a IOS device, scan the QR code provided form the code above
-
-<h2>Links</h2>
-
-- [Github Link](https://github.com/srn1153/WatchItOrReadIt)</p>
-- [Final Presentation Link](https://www.canva.com/design/DAGT9dFSJZ8/F2NYCW27KtYdpoCm4neWjA/edit)
 
 <!--
  ```diff
