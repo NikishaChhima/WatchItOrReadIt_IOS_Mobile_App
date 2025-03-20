@@ -1,8 +1,15 @@
-<img width="265" alt="Screen Shot 2025-03-20 at 3 16 09 PM" src="https://github.com/user-attachments/assets/4693bb6b-f4ac-4e2f-8ae1-d3532c2c19d9" /># WatchItOrReadIt_IOS_Mobile_App
+# WatchItOrReadIt_IOS_Mobile_App
 
 <h2>Project Description</h2>
 Entertainment social network platforms like Letterboxd and Goodreads have become recognised for their user-friendly interfaces and interactive communities where users can share their options, participate in discussions and discover new entertainment. Building on these concepts, WatchItOrReadIt aims to combine the best features of both platforms into a seamless moible application. Allowing users to experience a fictional world through movies, tv shows and books.
 <br />
+</p>
+
+<img width="210" alt="Screen Shot 2025-03-20 at 3 16 09 PM" src="https://github.com/user-attachments/assets/4693bb6b-f4ac-4e2f-8ae1-d3532c2c19d9" />
+<img width="213" alt="Screen Shot 2025-03-20 at 3 15 51 PM" src="https://github.com/user-attachments/assets/1b52afcf-3918-4ce4-8325-0dc855f56a78" />
+<img width="205.7" alt="Screen Shot 2025-03-20 at 7 38 35 PM" src="https://github.com/user-attachments/assets/e30a3984-37c6-4051-a047-9701797dbd90" />
+<img width="209" alt="Screen Shot 2025-03-20 at 7 38 45 PM" src="https://github.com/user-attachments/assets/429a5f5e-7f02-4630-b988-cc0e4d579035" />
+
 
 <h2>Languages and Utilities Used</h2>
 
