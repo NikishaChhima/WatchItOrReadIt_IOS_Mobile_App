@@ -1,35 +1,46 @@
-# WatchItOrReadIt_IOS_Mobile_App
+# WatchItOrReadIt iOS Mobile App
 
-<h2>Project Description</h2>
-Entertainment social network platforms like Letterboxd and Goodreads have become recognised for their user-friendly interfaces and interactive communities where users can share their options, participate in discussions and discover new entertainment. Building on these concepts, WatchItOrReadIt aims to combine the best features of both platforms into a seamless moible application. Allowing users to experience a fictional world through movies, tv shows and books.
-<br />
-</p>
+## Project Description
+Entertainment social network platforms like Letterboxd and Goodreads are popular for their user-friendly interfaces and interactive communities. However, they separate books, films, and TV shows, limiting cross-media discovery.
 
-<img width="160" alt="Screen Shot 2025-03-20 at 3 16 09 PM" src="https://github.com/user-attachments/assets/4693bb6b-f4ac-4e2f-8ae1-d3532c2c19d9" />
-<img width="162" alt="Screen Shot 2025-03-20 at 3 15 51 PM" src="https://github.com/user-attachments/assets/1b52afcf-3918-4ce4-8325-0dc855f56a78" />
-<img width="156" alt="Screen Shot 2025-03-20 at 7 38 35 PM" src="https://github.com/user-attachments/assets/e30a3984-37c6-4051-a047-9701797dbd90" />
-<img width="159" alt="Screen Shot 2025-03-20 at 7 38 45 PM" src="https://github.com/user-attachments/assets/429a5f5e-7f02-4630-b988-cc0e4d579035" />
+WatchItOrReadIt builds on these foundations by integrating the best features of both platforms into a unified, cross-media mobile app. Users can explore fictional worlds across multiple formats.
+
+Unlike standard profile pages, WatchItOrReadIt introduces a fully customisable "Profile Room", where users can:
+- Personalize their pet and environment  
+- Visually showcase their top 4 books, movies, and TV shows  
+- Interact with virtual elements like a bookshelf and TV display  
+
+## Screenshots / Demo
+**The images below illustrate the Home Page, Search Page, Default Profile Room, and a customised Profile Room.**
+
+<img width="160" alt="Home Page" src="https://github.com/user-attachments/assets/4693bb6b-f4ac-4e2f-8ae1-d3532c2c19d9" />
+<img width="155" alt="Search Page" src="https://github.com/user-attachments/assets/b0a9a03f-ab73-425c-a620-721b669f18a3" />
+<img width="156" alt="Default Profile Room" src="https://github.com/user-attachments/assets/9008066f-1592-4f71-8efb-af24c6ca1529" />
+<img width="162" alt="Custom Profile Room" src="https://github.com/user-attachments/assets/1b52afcf-3918-4ce4-8325-0dc855f56a78" />
+
+**Demo: Profile Room customisation in action**
 
 
-<h2>Languages and Utilities Used</h2>
+<img width="160" alt="Profile Room Demo" src="https://github.com/user-attachments/assets/a21d3808-be2e-4054-abc0-7eebc904b09a">
 
-- JavaScript
-- React/React Native
+## Languages and Utilities Used
+- JavaScript  
+- React / React Native  
 
-<h2>Environments Used</h2>
+## Environments Used
+- Visual Studio Code  
+- Git  
+- Node.js  
+- Firebase  
+- Expo CLI
 
-- Visual Studio Code
-- Git
-- Node js
-- Firebase
-- Expo
-
-<h2>How to build our project</h2>
-
-1. Ensure Node.js and Expo is downloaded and installed
-2. Open our project folder in Visual Studio Code
-3. Open a new terminal and enter "npx exop start -c"
-4. On a IOS device, scan the QR code provided form the code above
+## How to Build the Project
+1. Install Node.js and Expo CLI  
+2. Open the project folder in Visual Studio Code
+3. Run the following in a terminal:  
+```bash
+npx expo start -c
+```
 
 <h2>Links</h2>
 
