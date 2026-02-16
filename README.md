@@ -34,7 +34,7 @@ Entertainment social network platforms like Letterboxd and Goodreads have become
 <h2>Links</h2>
 
 - [Github Link](https://github.com/srn1153/WatchItOrReadIt)
-- [Final Presentation Link](https://www.canva.com/design/DAGT9dFSJZ8/F2NYCW27KtYdpoCm4neWjA/edit)
+- [Presentation about Product and Journey](https://www.canva.com/design/DAGT9dFSJZ8/F2NYCW27KtYdpoCm4neWjA/edit)
 - [Trello Board](https://trello.com/b/BcszFVww/2024s2w202awatchitorreadit)
 
 <h2>Dependencies Required</h2>
